@@ -1,8 +1,0 @@
-public class DemoVariable {
-  public static void main(String[ ] args){
-  int intNo =296;
-  
-    System.out.println("The int is !");
-    System.out.println("intNo");
-  }
-}
