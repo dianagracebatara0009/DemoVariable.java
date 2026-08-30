@@ -1,0 +1,14 @@
+ //Filename DemoVariable7.java
+ //Written by Diana Grace Batara
+ //BSIT NETSEC 1-2
+ //Written August 22 ,2026
+ 
+ public class DemoVariable7 {
+   public static void main(String[ ] args) {
+      int poly=(2*5*5) + (3*5) +7;
+      
+      System.out.println("The value of the second-degree poly nomial is" +poly);
+       
+     }
+   }
+         
