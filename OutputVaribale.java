@@ -16,14 +16,3 @@ public class UserInputs {
         System.out.println("Your name is: " + user_name);
     }
 }
-
-public class OutputVariable {
-    public static void main(String[] args) {
-        int value = 10;
-        char x;
-        x = 'A';
-
-        System.out.println(value);
-        System.out.println("The value of x = " + x);
-    }
-}
